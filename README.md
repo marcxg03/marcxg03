@@ -17,7 +17,7 @@ Full list with status and access: **[research](https://github.com/marcxg03/resea
 ## Apps
 
 - **[training-app](https://github.com/marcxg03/training-app)**: mobile-first PWA that runs my training methodology (block + bank lifting, schedule-anchored nutrition, append-only PR history, hand-rolled SVG analytics). Next.js + Supabase, live on Vercel. A v2 in Expo is in progress.
-- **[persona-forge](https://github.com/marcxg03/persona-forge)**: turns a YouTuber into a Claude persona you can talk to. Apify scrape → Claude distill (Haiku video cards → Opus synthesis) → monthly refresh → chat over a filesystem MCP.
+- **push.** *(private, in development)*: an invite-only network for finding the night's best spot. Hit the red button with a live photo and your location; when enough people on site back it up, the city network gets pinged, and the map wipes at 6am. Expo (React Native + TypeScript) + Supabase (Postgres, Auth, Realtime, Edge Functions), with a browser-playable demo mode.
 
 ## How I build
 
